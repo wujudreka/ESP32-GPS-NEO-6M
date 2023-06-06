@@ -5,3 +5,4 @@ code for connecting your esp32 with your gps neo. Make sure you have strong reli
 1.  tested on esp32 38pin
 2.  arduino ide 1.8.19
 3.  esp32 board library version 1.0.6
+4.  you also need tinygps library, you can get here https://github.com/mikalhart/TinyGPS
